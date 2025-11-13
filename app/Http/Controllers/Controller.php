@@ -15,4 +15,10 @@ class Controller extends BaseController
     {
         return view('home');
     }
+
+    public function vision(Request $request)
+    {
+        return view('vision');
+    }
+
 }

@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [Controller::class, 'home'])->name('home');
+Route::get('/vision', [Controller::class, 'vision'])->name('vision');
 Route::post('/storeContact', [StoreController::class, 'storeContact'])->name('storeContact');
 
 

@@ -14,7 +14,7 @@
                                 <div class="col-md-6">
                                     <div class="testimonial-text pb-5 pb-md-0">
                                         <h3>TEDxJumeirahBeachPark core team</h3>
-                                        <p>From the start, Hasan Ismail and Amalight shaped TEDx Jumeirah Beach Park’s digital identity with creativity, precision, and commitment, making them our most reliable partners</p>
+                                        <p>From the start, Hasan Ismail and novALight shaped TEDx Jumeirah Beach Park’s digital identity with creativity, precision, and commitment, making them our most reliable partners</p>
                                         <h5 class="mb-0">TEDx Jumeirah Beach Park Team</h5>
                                     </div>
                                 </div>
@@ -30,7 +30,7 @@
                                 <div class="col-md-6">
                                     <div class="testimonial-text pb-5 pb-md-0">
                                         <h3>TEDxJumeirahBeachPark core team</h3>
-                                        <p>From the start, Hasan Ismail and Amalight shaped TEDx Jumeirah Beach Park’s digital identity with creativity, precision, and commitment, making them our most reliable partners</p>
+                                        <p>From the start, Hasan Ismail and novALight shaped TEDx Jumeirah Beach Park’s digital identity with creativity, precision, and commitment, making them our most reliable partners</p>
                                         <h5 class="mb-0">TEDx Jumeirah Beach Park Team</h5>
                                     </div>
                                 </div>

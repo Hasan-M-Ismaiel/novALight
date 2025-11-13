@@ -7,23 +7,23 @@
                     <h1 class="text-white">novALight</h1>
                 </a>
                 <p class="mb-0">We believe every story deserves its moment in the light.
-                    Through creativity, precision, and strategy, NovALight transforms ideas into digital experiences that inspire and connect people everywhere.</p>
+                    Through creativity, precision, and strategy, novALight transforms ideas into digital experiences that inspire and connect people everywhere.</p>
             </div>
             <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
                 <h5 class="text-white mb-4">Get In Touch</h5>
                 <p><i class="fa fa-map-marker-alt me-3"></i>Suite 1502, Marina Plaza, Dubai Marina, Dubai, UAE</p>
                 <p><i class="fa fa-phone-alt me-3"></i>+971 56966 0429</p>
-                <p><i class="fa fa-envelope me-3"></i>novalight@hasan.ismaiel.me</p>
+                <p><i class="fa fa-envelope me-3"></i>info@novalight-media.com</p>
                 <div class="d-flex pt-2">
                     <!-- <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
                             class="fab fa-twitter"></i></a> -->
-                    <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
-                            class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
-                            class="fab fa-youtube"></i></a>
-                    <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
+                    <!-- <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
+                            class="fab fa-facebook-f"></i></a> -->
+                    <!-- <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
+                            class="fab fa-youtube"></i></a> -->
+                    <a class="btn btn-outline-primary btn-square border-2 me-2" href="https://www.instagram.com/novalight_media/"><i
                             class="fab fa-instagram"></i></a>
-                    <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
+                    <a class="btn btn-outline-primary btn-square border-2 me-2" href="https://www.linkedin.com/company/novalight-media/"><i
                             class="fab fa-linkedin-in"></i></a>
                 </div>
             </div>

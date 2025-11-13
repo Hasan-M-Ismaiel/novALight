@@ -25,18 +25,18 @@
                     <p class="mb-4 lh-lg">
                         I’m <strong>Hassan Ismail</strong>, a <strong>Software Project Manager</strong>,
                         <strong>Digital Strategist</strong>, and the mind behind
-                        <strong>Amalight</strong> — a digital initiative that blends technology, creativity,
+                        <strong>novALight</strong> — a digital initiative that blends technology, creativity,
                         and strategy to elevate event presence and audience engagement.
                     </p>
 
                     <p class="mb-4 lh-lg">
-                        With over <strong>5 years of experience</strong> in web development, product management,
+                        With over <strong>+6 years of experience</strong> in web development, product management,
                         and event-tech consulting, I’ve led projects across diverse industries, transforming
                         technical complexity into seamless digital experiences.
                     </p>
 
                     <p class="mb-5 lh-lg">
-                        Through Amalight, I collaborate with event organizers, creative teams, and digital partners
+                        Through novALight, I collaborate with event organizers, creative teams, and digital partners
                         to deliver measurable impact — from managing digital infrastructure to optimizing
                         content and analytics.
                     </p>
@@ -51,9 +51,9 @@
                         </div>
                     </div> -->
                     <div class="d-flex align-items-center mt-5">
-                        <a class="btn btn-primary px-4 me-2" href="#Hasan Ismaiel vision!">Vision</a>
-                        <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
-                                class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-primary px-4 me-2" href="{{ route('vision') }}">Vision</a>
+                        <!-- <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
+                                class="fab fa-facebook-f"></i></a> -->
                         <!-- <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
                                 class="fab fa-twitter"></i></a> -->
                         <a class="btn btn-outline-primary btn-square border-2 me-2" href="https://www.instagram.com/hasan.m.ismaiel/"><i
