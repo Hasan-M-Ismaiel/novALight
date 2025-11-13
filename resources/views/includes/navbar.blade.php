@@ -12,8 +12,8 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto">
                     <a href="{{ route('home') }}" class="nav-item nav-link active">Home</a>
-                    <a href="#about" class="nav-item nav-link">About</a>
-                    <a href="#services" class="nav-item nav-link">Services</a>
+                    <a href="{{ route('home') }}#about" class="nav-item nav-link">About</a>
+                    <a href="{{ route('home') }}#services" class="nav-item nav-link">Services</a>
                     <!-- <a href="project.html" class="nav-item nav-link">Projects</a> -->
                     <!-- <div class="nav-item dropdown">
                         <a href="#!" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
@@ -24,7 +24,7 @@
                             <a href="404.html" class="dropdown-item">404 Page</a>
                         </div>
                     </div> -->
-                    <a href="#contact" class="nav-item nav-link">Contact</a>
+                    <a href="{{ route('home') }}#contact" class="nav-item nav-link">Contact</a>
                 </div>
             </div>
         </nav>
