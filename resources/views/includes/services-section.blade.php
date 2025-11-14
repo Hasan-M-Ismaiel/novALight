@@ -7,7 +7,7 @@
                         My Creative <span class="text-uppercase text-primary bg-light px-2">Services</span>
                     </h1>
                     <p>
-                        At <strong>novALight</strong>, every project begins with a story — your story.
+                        At <strong>novALight</strong>, every project begins with a story - your story.
                         We merge creativity, technology, and strategy to transform ideas into meaningful digital experiences.
                         Each detail is crafted to enhance your brand’s online presence, from visuals to engagement and performance.
                     </p>

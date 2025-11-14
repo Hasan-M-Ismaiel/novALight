@@ -19,25 +19,25 @@
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <h1 class="mb-5">
-                        <span class="text-uppercase text-primary bg-light px-2">Hassan Ismail</span> in words
+                        <span class="text-uppercase text-primary bg-light px-2">Hasan Ismaiel</span> in words
                     </h1>
 
                     <p class="mb-4 lh-lg">
-                        I’m <strong>Hassan Ismail</strong>, a <strong>Software Project Manager</strong>,
+                        I’m <strong>Hasan Ismaiel</strong>, a <strong>Software Project Manager</strong>,
                         <strong>Digital Strategist</strong>, and the mind behind
-                        <strong>novALight</strong> — a digital initiative that blends technology, creativity,
-                        and strategy to elevate event presence and audience engagement.
+                        <strong>novALight</strong> - a digital initiative that blends technology, creativity,
+                        and strategy to elevate presence and audience engagement.
                     </p>
 
                     <p class="mb-4 lh-lg">
-                        With over <strong>+6 years of experience</strong> in web development, product management,
+                        With over <strong>+6 years of experience</strong> in web development, product/project management,
                         and event-tech consulting, I’ve led projects across diverse industries, transforming
                         technical complexity into seamless digital experiences.
                     </p>
 
                     <p class="mb-5 lh-lg">
                         Through novALight, I collaborate with event organizers, creative teams, and digital partners
-                        to deliver measurable impact — from managing digital infrastructure to optimizing
+                        to deliver measurable impact - from managing digital infrastructure to optimizing
                         content and analytics.
                     </p>
                     <!-- <div class="row g-3">
