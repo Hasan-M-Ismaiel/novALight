@@ -13,14 +13,14 @@
                     </p>
                     <p class="mb-5">
                         Our mission is to help events and brands shine online through innovation, precision, and a clear digital vision.
-                        Below are the core services that power this approach and bring your ideas to life.
+                        Here are the core services that power this approach and bring your ideas to life.
                     </p>
                     <div class="d-flex align-items-center bg-light">
                         <div class="btn-square flex-shrink-0 bg-primary" style="width: 100px; height: 100px;">
                             <i class="fa fa-phone fa-2x text-white"></i>
                         </div>
                         <div class="px-3">
-                            <h3>+971 56966 0429</h3>
+                            <h3>+971 56966 0428</h3>
                             <span>Call us direct 24/7 for get a free consultation</span>
                         </div>
                     </div>

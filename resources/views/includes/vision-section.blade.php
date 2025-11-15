@@ -21,7 +21,7 @@
                     impression.
                 </p>
                 <p class="mb-5 lh-lg">
-                    Every project begins with your story — and we make sure your story shines at its brightest in the
+                    Every project begins with your story - and we make sure your story shines at its brightest in the
                     digital spotlight.
                 </p>
 
@@ -31,7 +31,7 @@
                 <!-- Structure -->
                 <h4 class="mb-3">1. novALight Structure</h4>
                 <p class="mb-4 lh-lg">
-                    novALight is not just a digital services company — it’s a centralized platform connecting clients directly with execution partners.
+                    novALight is not just a digital services company - it’s a centralized platform connecting clients directly with execution partners.
                 </p>
                 <ul class="mb-5 lh-lg">
                     <li><strong>Hasan Ismail – Founder & Lead Partner</strong><br>
@@ -61,7 +61,7 @@
                 <ul class="mb-5 lh-lg">
                     <li><strong>Discovery & Storytelling</strong><br>
                         • Client shares their vision and digital goals.<br>
-                        • novALight evaluates the project and identifies the most suitable solutions — from creative design to AI-powered tools.
+                        • novALight evaluates the project and identifies the most suitable solutions - from creative design to AI-powered tools.
                     </li>
                     <li><strong>Digital Strategy & Planning</strong><br>
                         • Develop a holistic strategy combining creativity, technology, and data.<br>
