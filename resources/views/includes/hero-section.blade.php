@@ -16,7 +16,7 @@
 
                      <p class="mb-4 lh-lg animated slideInRight">
                          novALight, led by <span class="fw-bold">Hasan Ismaiel</span>, unites creativity, technology,
-                         and strategy to elevate your event presence and amplify your digital identity.
+                         and strategy to elevate your online presence and amplify your digital identity.
                      </p>
 
                      <a href="#contact" class="btn btn-primary px-5 py-2 fw-semibold rounded-pill shadow-sm animated fadeInUp">

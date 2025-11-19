@@ -56,9 +56,9 @@
                                 class="fab fa-facebook-f"></i></a> -->
                         <!-- <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
                                 class="fab fa-twitter"></i></a> -->
-                        <a class="btn btn-outline-primary btn-square border-2 me-2" href="https://www.instagram.com/hasan.m.ismaiel/"><i
+                        <a class="btn btn-outline-primary btn-square border-2 me-2" target="_blank" href="https://www.instagram.com/hasan.m.ismaiel/"><i
                                 class="fab fa-instagram"></i></a>
-                        <a class="btn btn-outline-primary btn-square border-2" href="https://www.linkedin.com/in/hasan-ismaiel/"><i
+                        <a class="btn btn-outline-primary btn-square border-2" target="_blank" href="https://www.linkedin.com/in/hasan-ismaiel/"><i
                                 class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
