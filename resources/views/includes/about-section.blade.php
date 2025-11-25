@@ -51,7 +51,7 @@
                         </div>
                     </div> -->
                     <div class="d-flex align-items-center mt-5">
-                        <a class="btn btn-primary px-4 me-2" href="{{ route('vision') }}">Vision</a>
+                        <!-- <a class="btn btn-primary px-4 me-2" href="{{ route('vision') }}">Vision</a> -->
                         <!-- <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
                                 class="fab fa-facebook-f"></i></a> -->
                         <!-- <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i

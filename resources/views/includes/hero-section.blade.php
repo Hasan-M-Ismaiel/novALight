@@ -26,9 +26,9 @@
              </div>
              <div class="col-lg-6">
                  <div class="owl-carousel header-carousel animated fadeIn">
-                     <img class="img-fluid" src="{{ asset('assets/img/hero-slider-1.png') }} " alt="">
-                     <img class="img-fluid" src="{{ asset('assets/img/hero-slider-2.png') }} " alt="">
-                     <img class="img-fluid" src="{{ asset('assets/img/hero-slider-3.png') }} " alt="">
+                     <img class="img-fluid" src="{{ asset('assets/img/hero-slider-1.png') }} " loading="lazy" alt="nova light">
+                     <img class="img-fluid" src="{{ asset('assets/img/hero-slider-2.png') }} " loading="lazy" alt="digital agency">
+                     <img class="img-fluid" src="{{ asset('assets/img/hero-slider-3.png') }} " loading="lazy" alt="media agency">
                  </div>
              </div>
          </div>

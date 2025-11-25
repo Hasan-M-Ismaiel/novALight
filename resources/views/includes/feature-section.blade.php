@@ -6,9 +6,10 @@
             </h1>
             <!-- New Intro Paragraph -->
             <p class="lead text-muted mb-5">
-                Of course, I’m not the one who will do everything myself - and that’s the beauty of it.
+                <!-- Of course, I’m not the one who will do everything myself - and that’s the beauty of it.
                 Through <strong>novALight</strong>, I collaborate with trusted, expert partners and creative agencies
-                to bring your project to life. You’ll work directly with me as your main point of contact -
+                to bring your project to life. -->
+                You’ll work directly with me as your main point of contact -
                 I’ll handle the coordination, quality assurance, and strategic direction so you can relax knowing
                 your project is in good hands, without endless back-and-forth.
             </p>
