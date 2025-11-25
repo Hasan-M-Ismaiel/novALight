@@ -11,8 +11,9 @@
             </div>
             <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
                 <h5 class="text-white mb-4">Get In Touch</h5>
-                <p><i class="fa fa-map-marker-alt me-3"></i>Suite 222, City center, Dubai Marina, Dubai, UAE</p>
-                <p><i class="fa fa-phone-alt me-3"></i>+971 56966 0428</p>
+                <!-- <p><i class="fa fa-map-marker-alt me-3"></i>Suite 222, City center, Dubai Marina, Dubai, UAE</p> -->
+                <!-- <p><i class="fa fa-phone-alt me-3"></i>+971 56966 0429</p> -->
+                <p><i class="fa fa-phone-alt me-3"></i>+963 997195673</p>
                 <p><i class="fa fa-envelope me-3"></i>info@novalight-media.com</p>
                 <div class="d-flex pt-2">
                     <!-- <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i

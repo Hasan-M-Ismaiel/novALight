@@ -20,7 +20,8 @@
                             <i class="fa fa-phone fa-2x text-white"></i>
                         </div>
                         <div class="px-3">
-                            <h3>+971 56966 0428</h3>
+                            <!-- <h3>+971 56966 0429</h3> -->
+                            <h3>+963 997195673</h3>
                             <span>Call us direct 24/7 for get a free consultation</span>
                         </div>
                     </div>
