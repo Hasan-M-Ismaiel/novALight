@@ -19,4 +19,7 @@ Route::get('/', [Controller::class, 'home'])->name('home');
 Route::get('/vision', [Controller::class, 'vision'])->name('vision');
 Route::post('/storeContact', [StoreController::class, 'storeContact'])->name('storeContact');
 
+// Blog pages
+Route::get('/blog', [\App\Http\Controllers\BlogController::class, 'index'])->name('blog.index');
+Route::get('/blog/{slug}', [\App\Http\Controllers\BlogController::class, 'show'])->name('blog.show');
 
