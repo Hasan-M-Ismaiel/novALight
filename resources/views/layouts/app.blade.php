@@ -77,7 +77,7 @@
     </a>
 
     <!-- Floating WhatsApp Button -->
-    <a href="https://wa.me/971569660428?text=Hello,%20I%20would%20like%20to%20connect."
+    <a href="https://wa.me/963997195673?text=Hello,%20I%20would%20like%20to%20connect."
         target="_blank"
         class="btn btn-lg btn-success btn-lg-square back-to-whatsapp">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-whatsapp" viewBox="0 0 16 16">
