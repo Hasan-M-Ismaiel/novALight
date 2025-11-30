@@ -4,10 +4,13 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>@yield('title', 'novALight')</title>
-    <meta name="description" content="@yield('meta_description', 'Al Enayah Al Kamlah Excellence in Beauty Manufacturing. At Al Enayah Al Kamlah, we are proud to be a trusted leader in crafting and supplying top-tier cosmetic tools and professional-grade beauty products. With decades of experience in the beauty industry, we proudly serve salons, spas, and global retailers by delivering an extensive range of premium solutions thoughtfully designed to meet the unique needs of both beauty professionals and consumers.')">
-    <meta name="keywords" content="excellence in beauty manufacturing, trusted leader, cosmetic tools, professional-grade beauty products, decades of experience, beauty industry, salons, spas, global retailers, premium solutions, thoughtfully designed, unique needs, beauty professionals, consumers, auraray, Al Enayah Al Kamlah, Hair care, skincare, shaving, grooming essentials, salon-focused, private label manufacturing, custom product development, bespoke packaging solutions, expertly formulated, effective ingredients, luxurious textures, captivating fragrance profiles, uncompromising quality, safety, ISO certifications, dedicated customer support, 24/7 assistance, seamless assistance, empowering beauty businesses, reliable, sophisticated, performance-driven, signature brands, inspired innovation, flawless execution, unique beauty visions">
-    <meta name="author" content="Al Enayah Al Kamlah Manufacture of Cosmetic Tools & Supply L.L.C.">
+
+    <title>@yield('title', 'novALight • Transform Your Digital Presence with Creative Strategy & Smart Technology')</title>
+
+    <meta name="description" content="@yield('meta_description', 'From websites to digital strategy and content creation, novALight helps businesses and personal brands elevate their online identity with clarity, performance, and creativity.')">
+
+    <meta name="keywords" content="digital presence, digital strategy, web development, creative strategy, brand identity, content creation, novALight, branding, online presence, digital transformation, marketing strategy">
+    <meta name="author" content="novALight">
     <meta name="robots" content="index, follow">
 
     <!-- Favicons -->
@@ -33,6 +36,7 @@
     <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
 
 </head>
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-F5EKBPNVP7"></script>
