@@ -9,7 +9,10 @@
     <p class="text-muted">Published: {{ $post->created_at->format('M d, Y') }} — {{ $post->reading_time }} min read</p>
 
     @if($post->image)
-        <img src="{{ asset($post->image) }}" class="img-fluid mb-4" alt="{{ $post->title }}">
+        <img src="{{ asset($post->image) }}" 
+         class="img-fluid mb-4" 
+         alt="{{ $post->title }}"
+         style="max-height: 400px; object-fit: cover; width: 100%;">
     @endif
 
     <article class="content">
