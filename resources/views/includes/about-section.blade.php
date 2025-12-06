@@ -40,6 +40,15 @@
                         to deliver measurable impact - from managing digital infrastructure to optimizing
                         content and analytics.
                     </p>
+
+                    <!-- <p class="mb-5 lh-lg">
+                        Latest writing in free time: Geology of Consciousness <a href="https://drive.google.com/file/d/1ncHtewM0r9yBoQu9YZjVs3qw4eQP44ST/view?usp=sharing" >Arabic</a>, <a href="https://drive.google.com/file/d/1wQimcVAMWV6ieqH9uEL4_CAQdTVhQOHU/view?usp=sharing" >English</a>
+                    </p> -->
+
+                    <p class="mb-5 lh-lg">
+                        Latest writing in free time: Geology of Consciousness - comming soon ....
+                    </p>
+
                     <!-- <div class="row g-3">
                         <div class="col-sm-6">
                             <h6 class="mb-3"><i class="fa fa-check text-primary me-2"></i>Award Winning</h6>
